@@ -1,5 +1,6 @@
 # coffee-shop-frontend-design
 
+<img width="1440" alt="preview" src="https://github.com/Dibek1910/coffee-shop-frontend-design/assets/121224688/b637e0f7-5a45-41ab-8ff1-f56c0df6561f">
 
 This HTML file is a complete website template for a coffee shop. It includes sections such as the header, home, about, menu, review, book, and footer. The website has a modern design and uses popular libraries like Swiper for image sliders and Font Awesome for icons.
 
@@ -19,5 +20,5 @@ The website utilizes external CSS and JavaScript files for custom styling and fu
 
 This HTML file serves as a ready-to-use template for a coffee shop's website and can be easily deployed on platforms like GitHub Pages.
 
-  preview.png
   
+
