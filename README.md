@@ -18,3 +18,6 @@ The footer section contains information about the coffee shop's branches, quick 
 The website utilizes external CSS and JavaScript files for custom styling and functionality. These files are linked in the <head> and at the end of the <body> section, respectively.
 
 This HTML file serves as a ready-to-use template for a coffee shop's website and can be easily deployed on platforms like GitHub Pages.
+
+  preview.png
+  
